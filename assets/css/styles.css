@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+    font-family: AnjaliOldLipi;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: #082d08;
+}
+    td, th{
+    border: 2px solid #d90d0d;}
+
+td { color: #f9faf9;}
+th { color: #9f0303;}
+body {
+    background-image: url("../imagess/playboi.jpeg");
+background-repeat: no-repeat;
+    background-size: cover;
+background-attachment: fixed;
+    background-position: center;
+}
+
+
+
+
+
+
+

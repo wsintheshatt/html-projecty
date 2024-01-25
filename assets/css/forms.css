@@ -1,0 +1,20 @@
+
+body {
+  background-image: url("../imagess/emobilis.jpeg");
+    font-family: "Century Schoolbook L";
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+       input a:hover{color: #2bef2b}
+}
+
+label {
+    border: 2px red;
+    overflow: hidden;
+    color: #004bf6;
+    margin-right: auto; align-content: center;
+    padding: 12px;
+}
+input {
+    color: #9f0303;}
+

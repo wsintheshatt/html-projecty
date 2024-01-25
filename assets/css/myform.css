@@ -1,0 +1,35 @@
+body{
+    font-family: Dyuthi;
+    background-color: #cc9838;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+}
+#form\.container{
+ background-color: lightcoral;
+    padding: 20px;
+    border-radius: 7px;
+    box-shadow: #004bf6 9px;
+    border-radius: 6px;
+}
+.form-group {
+    display: flex;
+    margin: 9px;
+    font-weight: bold;
+}
+
+
+input[type="email"]
+input[type="password"]
+input[type="text"]
+textarea,
+select{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+border: 1px solid blueviolet;
+    border-radius: 5px;
+}

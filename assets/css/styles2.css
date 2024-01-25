@@ -1,0 +1,51 @@
+.fruits{
+    border: solid 2px #837b7b;
+    background-color: #ff2222;
+    text-align: center;
+    margin: 20px;
+    font-family: "Bitstream Charter";
+}
+
+.cars{
+    border: solid 2px blue;
+    background-color: #ee0808;
+    text-align: center;
+    margin: 20px;
+    font-family: AnjaliOldLipi;
+}
+.mangoes{
+    border: solid 2px #cc9838;
+    background-color: #004bf6;
+    text-align: center;
+    margin: 20px;
+    font-family: C059;
+}
+.planes{
+    border: solid 2px #ee1616;
+    background-color: #59f8bc;
+    text-align: center;
+    margin: 20px;
+    font-family: Chandas;
+}
+.playboi{
+ border: solid 2px  brown;
+    background-color: #cc9838;
+    text-align: center;
+    margin: 20px;
+    font-family: Dyuthi;
+}
+#computers{
+    background-color: grey;
+    text-align: center;
+    margin: 20px;
+    font-family: "Bitstream Charter";
+}
+#speed{
+       background-color:black;
+    text-align: center;
+    margin: 20px;
+    font-family: "Bitstream Charter";
+
+
+
+}
